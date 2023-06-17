@@ -54,3 +54,16 @@ main {
     width: 50%;
     text-align: left;
 }
+
+.box {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.box h2,
+.box h3 {
+    margin: 10px 0;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    text-align: left;
+}
