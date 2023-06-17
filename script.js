@@ -1,7 +1,10 @@
 // This is a placeholder for your actual data
 const posts = [
-    { title: 'Post 1', content: 'This is the first post.' },
-    { title: 'Post 2', content: 'This is the second post.' },
+    { title: 'Instagram Growth Campaigns', content: 'With 10+ years of social media development, we can grow your followers, views, leads, or whatever you want to grow!' },
+    { title: 'Facebook Ad Targeting', content: 'Who should I advertise to? What types of ad will lead to new customers? We can answer these questions and optimize your advertising spending.' },
+    { title: 'Google Adwords', content: 'We can help you get to the top of Google search results and get more exposure.' },
+    { title: 'TikTok Growth Campaigns', content: 'Maybe you want to reach younger generations on a newer platform like TikTok.' },
+
     // add more posts here
 ];
 
